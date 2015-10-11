@@ -1,3 +1,9 @@
+This repo, so far, will only have edits made to "Ghost" as I only have a 2013 Moto X. This may expand in the future,
+but so far that's it.
+
+This kernel is not going to be super slim, what I'm aiming at here is including as many features as I can fit and make it run.
+It's my first kernel project, so there may be hiccups along the way, but hopefully this will go somewhere!
+	
 	Linux kernel release 3.x <http://kernel.org/>
 
 These are the release notes for Linux version 3.  Read them carefully,
